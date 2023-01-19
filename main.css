@@ -1,0 +1,47 @@
+#pet-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pet-container div{
+    display: flex;
+    flex-basis: 20%;
+    flex-direction: column;
+    
+    max-width: 15em;
+}
+
+.card {
+    margin: 2em;
+    
+}
+
+h1 {
+    text-align: center;
+}
+.btn-div{
+
+    display: flex;
+    flex-direction: row;
+    padding: 5% 40% 5% 40%;
+    justify-content: space-evenly;
+
+}
+
+#dogBtn {
+    
+    background-color: green;
+    color: white;
+}
+#catBtn {
+    
+    background-color: lightblue;
+    color: white;
+}
+
+#dinoBtn {
+    
+    background-color: orange;
+    color: white;
+}
+
