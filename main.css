@@ -1,3 +1,10 @@
+#petForm {
+ padding-left: 2.5em;
+ padding-right: 2.5em;   
+}
+
+
+
 #pet-container {
     display: flex;
     flex-wrap: wrap;
@@ -44,4 +51,5 @@ h1 {
     background-color: orange;
     color: white;
 }
+
 

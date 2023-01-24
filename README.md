@@ -7,4 +7,4 @@
 
 # UPDATE THIS README WHEN THE ASSIGNMENT IS COMPLETED
 
-* This assignment is completed
+* Part 2 is complete
